@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "1673292995375",
+      "title": "aazzaaz",
+      "date": "09.01.2023 22:36:35",
+      "completed": true
+    },
+    {
+      "id": "1673293000244",
+      "title": "azazaz",
+      "date": "09.01.2023 22:36:40",
+      "completed": false
+    }
+  ]
+}
